@@ -69,12 +69,12 @@ db_stats <- databraryapi::get_db_stats()
 ## How Databrary protects personal data
 
 - Data shared only with participant permission (& IRB approval)
-- [Template language](https://www.databrary.org/resources/templates/release-template.html), scripts and [procedure documentation](https://www.databrary.org/video/example-video-1.mp4)
+- [Template language](https://databrary.org/support/irb/release-template.html), scripts and [procedure documentation](https://databrary.org/video/example-video-1.mp4)
 
 ## Open sharing (but with restricted audiences)
 
 - Researchers require institutional authorization
-- [Formal access agreement](https://www.databrary.org/resources/agreement.html)
+- [Formal access agreement](https://databrary.org/about/agreement/agreement.html)
 - Site-wide access, not dataset-specific
 - Data use and contribution
 
@@ -112,7 +112,7 @@ databraryapi::get_db_stats()
   - Projects in-process
   - After project/grant has ended
 - Home for research procedure videos
-  - <https://www.databrary.org/video/example-video-1.mp4>
+  - <https://databrary.org/video/example-video-1.mp4>
 - Meet journal/funder sharing requirements & protect data
 
 ## Get in touch
