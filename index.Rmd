@@ -2,6 +2,7 @@
 title: "About Databrary"
 author: "Rick Gilmore & Andrea Seisler"
 date: "`r Sys.time()`"
+logo: img/databrary-new-leaf.jpg
 output: 
   ioslides_presentation:
     self_contained: false
