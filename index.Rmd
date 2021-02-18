@@ -23,32 +23,6 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ---
 
-<div class="centered">
-```{r, out.width="200px"}
-# NSF
-knitr::include_graphics("https://upload.wikimedia.org/wikipedia/commons/8/87/NSF_Logo.PNG")
-# NICHD
-knitr::include_graphics("https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_120,w_120,f_auto,b_white,q_auto:eco/ex89p5pm1bvck2ow3vwd")
-# NIDA
-knitr::include_graphics("https://www.drugabuse.gov/sites/default/files/images/web-NIH_NIDA_Vertical_Logo_2Color.jpg")
-# NIMH
-knitr::include_graphics("https://logodix.com/logo/1750528.jpg")
-```
-
-</br>
-
-```{r, out.width="200px"}
-# Sloan
-knitr::include_graphics("https://sloan.org/storage/app/media/Logos/Sloan-Logo-stacked-black-web.png")
-# SRCD
-knitr::include_graphics("http://newsroom.unl.edu/announce/files/file77330.jpg")
-# LEGO
-knitr::include_graphics("https://www.unicef.org.hk/wp-content/uploads/2017/08/Logo-05_Lego-foundation_UNICEF_partnership.jpg")
-```
-</div>
-
----
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
