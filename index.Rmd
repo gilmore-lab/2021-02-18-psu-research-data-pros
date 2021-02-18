@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ## Agenda
 
+- Why are we here?
 - What is Databrary?
 - How can Databrary help your team?
 - How to get in touch
@@ -45,6 +46,10 @@ knitr::include_graphics("http://newsroom.unl.edu/announce/files/file77330.jpg")
 knitr::include_graphics("https://www.unicef.org.hk/wp-content/uploads/2017/08/Logo-05_Lego-foundation_UNICEF_partnership.jpg")
 ```
 </div>
+
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/66oNv_DJuPc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
